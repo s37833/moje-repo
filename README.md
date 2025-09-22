@@ -1,1 +1,1 @@
-﻿Repozytorium na zajęcia z Gita.
+﻿Uczelnia: PJATK Kierunek: Informatyka
