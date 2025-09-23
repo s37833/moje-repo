@@ -1,1 +1,1 @@
-﻿Uczelnia: PJATK Kierunek: Informatyka
+﻿Numer studenta: s37833
